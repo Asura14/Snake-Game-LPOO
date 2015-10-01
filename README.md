@@ -1,2 +1,5 @@
-Snake-Game---LPOO
-=================
+# Snake-Game - LPOO
+
+## Author
+
+* Luís Gonçalves
