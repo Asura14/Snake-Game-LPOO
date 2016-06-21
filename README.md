@@ -1,5 +1,13 @@
-# Snake-Game - LPOO
+# Snake Game 
+Java only implementation of the classic game Snake. This projectwas developed for Object Oriented Programming Laboratory subject, FEUP.
 
-## Author
 
+## Credits
+### Author
 * Luís Gonçalves
+ 
+### Audio
+* Background music: Jungle Groove by Nintendo
+
+### Sprites
+All sprites and gifs were created by me.
